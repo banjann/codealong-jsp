@@ -1,3 +1,3 @@
 # codealong-jsp
 
-tutorial on using JDBC on JSP
+JDBC on JSP tutorial
